@@ -32,7 +32,7 @@
         echo "<br>";
 
         for($row = 0 ; $row <= 4; $row++){
-            echo "<p> Test</p>";
+            echo "<p> Test</p>"."<br>";
 
         }
     ?>
